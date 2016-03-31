@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        ScholarMarkSaved
 // @namespace   scholar
-// @include     https://scholar.google.lt/*
+// @include     https://scholar.google.*
 // @version     1
 // @grant       none
 // ==/UserScript==
